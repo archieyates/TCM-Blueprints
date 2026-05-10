@@ -16,7 +16,8 @@
       "s1e14-s1e21",
       "s1e22-s1e24",
       "s2e1-s2e5",
-      "s2e6-s2e23"
+      "s2e6-s2e23",
+      "s3e1-s3e12"
     ],
     "season_title_values": [
       "Cursed Child",
@@ -25,7 +26,8 @@
       "Kyoto Goodwill Event",
       "Death Painting",
       "Gojo's Past",
-      "Shibuya Incident"
+      "Shibuya Incident",
+      "Culling Game"
     ],
     "extra_keys": [
       "stroke_color"
